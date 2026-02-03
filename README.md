@@ -25,9 +25,9 @@ Hard → 1–500
 
 # 🛠 Tech Stack
 
-Language: Python 3
+**Language: Python 3**
 
-Libraries:
+**Libraries:**
 
     random
 
@@ -40,7 +40,7 @@ Libraries:
 
 git clone https://github.com/HarshitGupta61/Guess-The-Number-Voice-Enabled-Python-Game
 
-git add README.mdpip install pyttsx3
+pip install pyttsx3
 
 # Run the game
 python guess_game.py
@@ -49,17 +49,17 @@ python guess_game.py
 
 # 🎮 How to Play
 
-Choose a difficulty level: Easy, Medium, or Hard
+# Choose a difficulty level: Easy, Medium, or Hard
 
-Guess the number selected by the system
+# Guess the number selected by the system
 
-The game will guide you using voice hints:
+# The game will guide you using voice hints:
 
-“Higher number please”
+    “Higher number please”
 
-“Lower number please”
+    “Lower number please”
 
-After winning, choose whether to play again
+# After winning, choose whether to play again
 
 # 📂 Project Structure
 guess-the-number-voice-game/
