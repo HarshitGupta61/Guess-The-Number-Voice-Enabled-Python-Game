@@ -38,10 +38,9 @@ Libraries:
 # 📦 Installation & Setup
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/guess-the-number-voice-game.git
-cd guess-the-number-voice-game
+git clone https://github.com/HarshitGupta61/Guess-The-Number-Voice-Enabled-Python-Game
 
-pip install pyttsx3
+git add README.mdpip install pyttsx3
 
 # Run the game
 python guess_game.py
