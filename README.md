@@ -9,11 +9,11 @@ The game interacts with the player using both text input and text-to-speech (TTS
 
 🎚 Difficulty levels:
 
-Easy → 1–50
+    Easy → 1–50
 
-Medium → 1–100
+    Medium → 1–100
 
-Hard → 1–500
+    Hard → 1–500
 
 🗣 Voice feedback using pyttsx3
 
@@ -49,17 +49,17 @@ python guess_game.py
 
 # 🎮 How to Play
 
-# Choose a difficulty level: Easy, Medium, or Hard
+**Choose a difficulty level: Easy, Medium, or Hard**
 
-# Guess the number selected by the system
+**Guess the number selected by the system**
 
-# The game will guide you using voice hints:
+**The game will guide you using voice hints:**
 
     “Higher number please”
 
     “Lower number please”
 
-# After winning, choose whether to play again
+**After winning, choose whether to play again**
 
 # 📂 Project Structure
 guess-the-number-voice-game/
